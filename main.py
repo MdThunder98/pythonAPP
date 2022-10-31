@@ -57,12 +57,22 @@
 # print(max(121, 54, 6, 3, 8))
 
 # ===============================
-
+#
 # months = {
 #     "jan": "january",
 #     "feb": "february",
 #     "mar": "march"
 # }
 #
+# print(months.get())
 
 # ==============================
+#
+# i =1
+#
+# while i<10:
+#     print(i)
+#     i+=1
+# else:
+#     print("i is end")
+# =================================
