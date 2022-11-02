@@ -76,20 +76,3 @@
 # else:
 #     print("i is end")
 # =================================
-#
-# buddies = ["pikachu", "grandizer", "subziro"]
-#
-# for index in range(len(buddies)):
-#     print(buddies[index])
-
-# for i in range(10):
-#     if i % 2 == 0:
-#         print(i, "Even number")
-#     else:
-#         print(i, "Odd Number")
-
-# for buddy in buddies:
-#     if buddies[buddy] == "subziro":
-#         print("")
-
-# ===========================
