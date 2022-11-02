@@ -57,12 +57,39 @@
 # print(max(121, 54, 6, 3, 8))
 
 # ===============================
-
+#
 # months = {
 #     "jan": "january",
 #     "feb": "february",
 #     "mar": "march"
 # }
 #
+# print(months.get())
 
 # ==============================
+#
+# i =1
+#
+# while i<10:
+#     print(i)
+#     i+=1
+# else:
+#     print("i is end")
+# =================================
+#
+# buddies = ["pikachu", "grandizer", "subziro"]
+#
+# for index in range(len(buddies)):
+#     print(buddies[index])
+
+# for i in range(10):
+#     if i % 2 == 0:
+#         print(i, "Even number")
+#     else:
+#         print(i, "Odd Number")
+
+# for buddy in buddies:
+#     if buddies[buddy] == "subziro":
+#         print("")
+
+# ===========================
